@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @parryDeveloper
 - 👀 I’m interested in web developemnt(frontend and backend)
-- 🌱 I’m currently doing bachelor of IT
+- 🌱 I’m currently finished my bachelor of IT major in software developement
 
 
 <!---
