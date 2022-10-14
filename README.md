@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @parryDeveloper
-- 👀 I’m interested in web developemnt(frontend and backend)
+- 👀 I’m interested in web developemnt(frontend and backend), system Analyst
 - 🌱 I’m currently finished my bachelor of IT major in software developement
 
 
